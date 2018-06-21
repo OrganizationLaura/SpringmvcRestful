@@ -1,0 +1,6 @@
+laura\springmvc\demo\configuration\HelloWorldConfiguration.class
+laura\springmvc\demo\model\User.class
+laura\springmvc\demo\configuration\HelloWorldInitializer.class
+laura\springmvc\demo\service\IUserService.class
+laura\springmvc\demo\service\UserServiceImpl.class
+laura\springmvc\demo\controller\HelloWorldRestController.class
